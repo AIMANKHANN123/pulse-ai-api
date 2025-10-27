@@ -1,0 +1,59 @@
+[
+    {
+        "session_id": "955fc339-e98f-4b0b-b845-27a2f6d56412",
+        "title": "Generate 5 short and clear employee survey questio",
+        "messages": [
+            {
+                "prompt": "Generate 5 short and clear employee survey questions about collaboration",
+                "results": [
+                    {
+                        "question": "What can improve collaboration in your organization?",
+                        "type": "open-ended"
+                    },
+                    {
+                        "question": "How likely are you to recommend our collaboration practices to others?",
+                        "type": "nps-style"
+                    },
+                    {
+                        "question": "Do you feel confident about collaboration in your team?",
+                        "type": "binary"
+                    },
+                    {
+                        "question": "How satisfied are you with collaboration?",
+                        "type": "scale"
+                    },
+                    {
+                        "question": "On a scale of 1-5, how would you rate collaboration?",
+                        "type": "nps-style"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-10-27 00:34:54",
+        "prompt": "Generate 5 survey questions about teamwork",
+        "response": [
+            {
+                "question": "Do you feel confident about teamwork in your team?",
+                "type": "binary"
+            },
+            {
+                "question": "How likely are you to recommend our teamwork practices to others?",
+                "type": "nps-style"
+            },
+            {
+                "question": "On a scale of 1-5, how would you rate teamwork?",
+                "type": "nps-style"
+            },
+            {
+                "question": "What can improve teamwork in your organization?",
+                "type": "open-ended"
+            },
+            {
+                "question": "How satisfied are you with teamwork?",
+                "type": "scale"
+            }
+        ]
+    }
+]
